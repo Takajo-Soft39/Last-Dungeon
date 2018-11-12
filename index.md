@@ -3,4 +3,4 @@
 VRゴーグルをつけてラスボスとの戦いに挑戦しよう！他のアトラクションで得た経験値が君の強さになるぞ！  
 ![桜](last-dungeon1.png)  
 [MAP](https://takajo-soft22.github.io/attraction_map/)  
-[HOME]()
+[HOME](https://takajo-soft39.github.io/Last-Dungeon/
